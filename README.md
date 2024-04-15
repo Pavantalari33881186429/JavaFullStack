@@ -1,1 +1,1 @@
-# JavaFullStack
+# UsecaseAssignment
